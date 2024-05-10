@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coffee Order</string>
+    <string name="delete_toast">Hapus pesanan ini?</string>
+    <string name="delete_button">Hapus</string>
+    <string name="cancel_button">Batal</string>
+    <string name="grid">Tampilan Grid</string>
+    <string name="list">Tampilan List</string>
+    <string name="empty_list">Belum ada pesanan</string>
+    <string name="x_onclick">%1$s diklik</string>
+    <string name="add_order">Tambah Pesanan</string>
+    <string name="edit_order">Ubah Pesanan</string>
+    <string name="delete_order">Hapus Pesanan</string>
+    <string name="name">Nama Pelanggan</string>
+    <string name="table">Masukkan Nomor Meja</string>
+    <string name="back">Kembali</string>
+    <string name="save">Simpan</string>
+    <string name="invalid">Nama, Jenis orderan kopi dan meja tidak boleh kosong.</string>
+    <string name="others">Lainnya</string>
+</resources>

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Coffee Order</string>
+
+    <!--  STRING DISPLAY ALERT  -->
+    <string name="delete_toast">Delete this order data?</string>
+    <string name="delete_button">Delete</string>
+    <string name="cancel_button">Cancel</string>
+
+    <!--  STRING LIST AND GRID  -->
+    <string name="grid">Grid View</string>
+    <string name="list">List View</string>
+
+
+    <string name="empty_list">There are no orders yet</string>
+    <string name="x_onclick">%1$s on click!</string>
+
+
+    <string name="add_order">Add orders</string>
+    <string name="edit_order">Edit orders</string>
+    <string name="delete_order">Delete orders</string>
+
+    <string name="name">Customer Name</string>
+    <string name="table">Input Table Number</string>
+
+    <string name="back">Back</string>
+    <string name="save">Save</string>
+
+    <string name="invalid">Name, type of coffee order and table cannot be empty.</string>
+    <string name="others">Others</string>
+
+
+
+</resources>
